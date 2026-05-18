@@ -1,5 +1,6 @@
 # TELEDETECTOR: Telecom Fraud Detection
 
+Take the large datasets of Telecom Company's and run the prediction model on it, to check for possible fraudulents.
 This is a hyrid prediction model that uses ML + Logic Check to detect the Fraudulent Numbers, Using MLflow Devops.
 
 ## ML Model (Layer 1):
